@@ -1,0 +1,27 @@
+h1{
+    color:orange;
+}
+
+ul{
+    list-style: none;
+}
+
+img {
+    width: 300px;
+}
+
+.recipeCard{
+    width: 400px;
+    background-color: #FFFAFA;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.recipeContent{
+    text-align: left;
+}
+
+.recipeCard.feature {
+    border: 2px yellow;
+}
